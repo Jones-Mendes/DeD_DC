@@ -2,6 +2,9 @@
 
 Sistema web para geração de personagens não-jogadores (NPCs) de Dungeons & Dragons 5ª Edição, desenvolvido com React, Vite e Tailwind CSS.
 
+<img width="1637" height="850" alt="image" src="https://github.com/user-attachments/assets/1d863b9c-c8b7-4cd8-a089-86ce9699534b" />
+
+
 ## ✨ Funcionalidades
 
 - **Geração Aleatória Completa**: Crie NPCs completos com raça, classe, atributos, background e personalidade
@@ -29,6 +32,9 @@ Guerreiro, Mago, Clérigo, Ladino, Ranger, Paladino, Bárbaro, Bardo, Druida, Fe
 
 ### Backgrounds
 Acólito, Criminoso, Herói do Povo, Nobre, Sábio, Soldado, Artesão de Guilda, Eremita, Forasteiro, Artista
+
+<img width="1149" height="865" alt="image" src="https://github.com/user-attachments/assets/eceb5821-0da9-4fdf-afe0-7f940a853b7c" />
+
 
 ## 🚀 Como Usar
 
